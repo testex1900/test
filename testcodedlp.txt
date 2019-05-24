@@ -1,0 +1,3 @@
+public sub test
+msgbox "ok"
+end sub
